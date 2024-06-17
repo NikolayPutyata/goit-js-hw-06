@@ -11,6 +11,7 @@ class Storage {
   }
   removeItem(itemToRemove) {
     if (this.#items.includes(itemToRemove)) {
+      //
     }
   }
 }
